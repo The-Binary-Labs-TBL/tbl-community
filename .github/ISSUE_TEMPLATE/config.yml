@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Start a discussion
+    url: https://github.com/The-Binary-Labs/tbl-community/discussions
+    about: Use GitHub Discussions for questions, ideas, and community conversations.
+  - name: Security report
+    url: mailto:the.binary.labs@proton.me
+    about: Please report security vulnerabilities privately by email.
